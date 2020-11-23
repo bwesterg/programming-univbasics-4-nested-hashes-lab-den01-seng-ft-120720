@@ -142,6 +142,6 @@ def adding_to_dennis
 
 #@programmer_hash[:dennis_ritchie][:languages] << "Assembly"
 
-programmer_hash.add[:dennis_ritchie][:languages] = "I'm third!"
+programmer_hash[:dennis_ritchie][:languages] = "I'm third!"
 
 end
